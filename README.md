@@ -32,9 +32,17 @@ A portfolio-grade mobile and web e-commerce app built with **Flutter**, **Riverp
 
 ## Screenshots
 
-| Shop | Product detail | 
-| ---- | -------------- | 
-| ![Shop](docs/screenshots/shop.png) | ![Product detail](docs/screenshots/detail.png) |
+| Home — light | Home — dark |
+| --- | --- |
+| ![Home (light)](docs/screenshots/home-light.png) | ![Home (dark)](docs/screenshots/home-dark.png) |
+
+| Product detail | Favourites |
+| --- | --- |
+| ![Product detail](docs/screenshots/product-detail.png) | ![Favourites](docs/screenshots/favourites.png) |
+
+| Cart | Checkout |
+| --- | --- |
+| ![Cart](docs/screenshots/cart.png) | ![Checkout](docs/screenshots/checkout.png) |
 
 ## Getting Started
 
